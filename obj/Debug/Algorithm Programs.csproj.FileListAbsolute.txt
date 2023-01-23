@@ -1,0 +1,8 @@
+C:\New Git 236\Algorithm Programs\Algorithm Programs\obj\Debug\Algorithm Programs.csproj.AssemblyReference.cache
+C:\New Git 236\Algorithm Programs\Algorithm Programs\obj\Debug\Algorithm Programs.csproj.SuggestedBindingRedirects.cache
+C:\New Git 236\Algorithm Programs\Algorithm Programs\obj\Debug\Algorithm Programs.csproj.CoreCompileInputs.cache
+C:\New Git 236\Algorithm Programs\Algorithm Programs\bin\Debug\Algorithm Programs.exe.config
+C:\New Git 236\Algorithm Programs\Algorithm Programs\bin\Debug\Algorithm Programs.exe
+C:\New Git 236\Algorithm Programs\Algorithm Programs\bin\Debug\Algorithm Programs.pdb
+C:\New Git 236\Algorithm Programs\Algorithm Programs\obj\Debug\Algorithm Programs.exe
+C:\New Git 236\Algorithm Programs\Algorithm Programs\obj\Debug\Algorithm Programs.pdb
